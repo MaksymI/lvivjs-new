@@ -47,13 +47,13 @@
     }
   },
   "gallery" : [
-    "/images/gallery/gen1.jpg",
-    "/images/gallery/reg1.jpg",
+    "/images/gallery/gen1.JPG",
+    "/images/gallery/reg1.JPG",
     "/images/gallery/loc1.jpg",
     "/images/gallery/loc2.jpg",
-    "/images/gallery/speek1.jpg",
-    "/images/gallery/speek4.jpg",
-    "/images/gallery/speek3.jpg",
+    "/images/gallery/speek1.JPG",
+    "/images/gallery/speek4.JPG",
+    "/images/gallery/speek3.JPG",
     "/images/gallery/loc4.jpg"
   ],
   "notifications" : {
@@ -357,34 +357,28 @@
       "title" : "I got 99 problems but GraphQL ain't one"
     },
     "104" : {
-      "complexity" : "Beginner",
-      "description" : "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers" : [ "sascha_wolter" ],
+      "complexity" : "Intermediate",
+      "description" : "When manager comes to you with a task to create a simple registrations form, why not to go nuts and build the best possible validation with finite automata and formal grammar",
+      "language" : "Ukraine",
+      "speakers" : [ "mykhailo_ivankiv" ],
       "tags" : [ "Web" ],
-      "title" : "The Physical Web: Context is King!",
-      "videoId" : "fLfQNp75kbc"
+      "title" : "How to create registration form"
     },
     "105" : {
       "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ "rustem_arzymbetov" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow",
-      "videoId" : "e3cuSz1hEPs"
+      "description" : "The Good Project",
+      "language" : "Ukraine",
+      "speakers" : [ "oleksiy_pletnov" ],
+      "tags" : [ "Web" ],
+      "title" : "The Good Project"
     },
     "106" : {
-      "complexity" : "Beginner",
-      "description" : "Fuelio. Success story (I'll write more info later)",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers" : [ "adrian_kajda" ],
-      "tags" : [ "Android" ],
-      "title" : "Fuelio. Success story",
-      "videoId" : "qK7ysoohsaM"
+      "complexity" : "Intermediate",
+      "description" : "Bring 'life' to WebAssembly with Genetic Algorithms and C++",
+      "language" : "Ukraine",
+      "speakers" : [ "serhii_dubovyk" ],
+      "tags" : [ "Web" ],
+      "title" : "Bring 'life' to WebAssembly with Genetic Algorithms and C++"
     },
     "107" : {
       "complexity" : "Beginner",
@@ -754,6 +748,99 @@
         "name" : ""
       } ],
       "title" : "Channel your inner rockstar with the web audio API"
+    },
+    "mykhailo_ivankiv" : {
+      "badges" : [ {
+        "description" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "bio" : "",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ukraine",
+      "featured" : true,
+      "name" : "Mykhailo Ivankiv",
+      "photo" : "/images/people/mykhailo_ivankiv.jpg",
+      "photoUrl" : "https://drive.google.com/file/d/1mj4sm8Mkp9ncoi9Raz7uBBjRdwp-HS0v/view?usp=sharing",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }, {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "title" : "How to create registration form"
+    },
+    "oleksiy_pletnov" : {
+      "badges" : [ {
+        "description" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "bio" : "",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ukraine",
+      "featured" : true,
+      "name" : "Oleksiy Pletnov",
+      "photo" : "/images/people/oleksiy_pletnov.jpg",
+      "photoUrl" : "https://www.dropbox.com/s/fgxmrlalnr4gbd3/Alex%20-%20photo.jpg?dl=0",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }, {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "title" : "The Good Project"
+    },
+    "serhii_dubovyk" : {
+      "badges" : [ {
+        "description" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "bio" : "",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ukraine",
+      "featured" : true,
+      "name" : "Serhii Dubovyk",
+      "photo" : "/images/people/serhii_dubovyk.jpg",
+      "photoUrl" : "https://scontent.fiev1-1.fna.fbcdn.net/v/t31.0-8/11412317_473495112806985_1649774932189177016_o.jpg?_nc_cat=0&oh=91842dbeb1027f9919c54b1c169ebf42&oe=5C136EFF",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }, {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "title" : "Bring 'life' to WebAssembly with Genetic Algorithms and C++"
     }
   },
   "team" : [ {
