@@ -381,13 +381,12 @@
       "title" : "Bring 'life' to WebAssembly with Genetic Algorithms and C++"
     },
     "107" : {
-      "complexity" : "Beginner",
-      "description" : "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
-      "extend" : 2,
+      "complexity" : "Intermediate",
+      "description" : "",
       "language" : "English",
-      "speakers" : [ "gerard_sans" ],
+      "speakers" : [ "igor_fesenko" ],
       "tags" : [ "Web" ],
-      "title" : "Introduction to Progressive Web Apps in Angular 2"
+      "title" : ""
     },
     "108" : {
       "complexity" : "Intermediate",
@@ -841,6 +840,37 @@
         "name" : ""
       } ],
       "title" : "Bring 'life' to WebAssembly with Genetic Algorithms and C++"
+    },
+    "igor_fesenko" : {
+      "badges" : [ {
+        "description" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "bio" : "",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ukraine",
+      "featured" : true,
+      "name" : "Igor Fesenko",
+      "photo" : "/images/people/igor_fesenko.jpg",
+      "photoUrl" : "https://lh5.googleusercontent.com/hQ2aTySyDrpj5vhnDyBfbvj_qr0y2BtI-O0yKzzbAGe76GtAeT6fKQn7IsO45mhLlWFfPuWQFZLGAj9WfUo=w1920-h974-rw",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }, {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "title" : ""
     }
   },
   "team" : [ {
