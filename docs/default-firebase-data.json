@@ -669,7 +669,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "complexity" : "🌶️🌶️",
+      "complexity" : "Complexity: 🌶️🌶️",
       "country" : "London, UK",
       "featured" : true,
       "name" : "Assim Hussain",
@@ -689,7 +689,8 @@
         "link" : "",
         "name" : ""
       } ],
-      "title" : "Everyday AI"
+      "title" : "Everyday AI",
+      "topic" : "Topic:"
     },
     "sara_vieira" : {
       "badges" : [ {
@@ -701,7 +702,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "complexity" : "🌶️🌶️",
+      "complexity" : "Complexity: 🌶️🌶️",
       "country" : "Portugal",
       "featured" : true,
       "name" : "Sara Vieira",
@@ -721,7 +722,8 @@
         "link" : "",
         "name" : ""
       } ],
-      "title" : "I got 99 problems but GraphQL ain't one"
+      "title" : "I got 99 problems but GraphQL ain't one",
+      "topic" : "Topic:"
     },
     "sam_bellen" : {
       "badges" : [ {
@@ -733,7 +735,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "complexity" : "🌶️🌶️",
+      "complexity" : "Complexity: 🌶️🌶️",
       "country" : "Belgium, Brussels",
       "featured" : true,
       "name" : "Sam Bellen",
@@ -753,7 +755,8 @@
         "link" : "",
         "name" : ""
       } ],
-      "title" : "Channel your inner rockstar with the web audio API"
+      "title" : "Channel your inner rockstar with the web audio API",
+      "topic" : "Topic:"
     },
     "mykhailo_ivankiv" : {
       "badges" : [ {
@@ -765,7 +768,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "complexity" : "🌶️🌶️🌶️",
+      "complexity" : "Complexity: 🌶️🌶️️🌶️",
       "country" : "Ukraine",
       "featured" : true,
       "name" : "Mykhailo Ivankiv",
@@ -785,7 +788,8 @@
         "link" : "",
         "name" : ""
       } ],
-      "title" : "How to create registration form"
+      "title" : "How to create registration form",
+      "topic" : "Topic:"
     },
     "oleksiy_pletnov" : {
       "badges" : [ {
@@ -797,7 +801,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "complexity" : "🌶️🌶️",
+      "complexity" : "Complexity: 🌶️🌶️",
       "country" : "Ukraine",
       "featured" : true,
       "name" : "Oleksiy Pletnov",
@@ -817,7 +821,8 @@
         "link" : "",
         "name" : ""
       } ],
-      "title" : "The Good Project"
+      "title" : "The Good Project",
+      "topic" : "Topic:"
     },
     "serhii_dubovyk" : {
       "badges" : [ {
@@ -829,7 +834,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "complexity" : "🌶️🌶️🌶️",
+      "complexity" : "Complexity: 🌶️🌶️🌶️",
       "country" : "Ukraine",
       "featured" : true,
       "name" : "Serhii Dubovyk",
@@ -849,7 +854,8 @@
         "link" : "",
         "name" : ""
       } ],
-      "title" : "Bring 'life' to WebAssembly with Genetic Algorithms and C++"
+      "title" : "Bring 'life' to WebAssembly with Genetic Algorithms and C++",
+      "topic" : "Topic:"
     },
     "igor_fesenko" : {
       "badges" : [ {
