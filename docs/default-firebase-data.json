@@ -674,7 +674,7 @@
       "featured" : true,
       "name" : "Assim Hussain",
       "photo" : "/images/people/assim_hussain.png",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/897523?s=400&v=4",
+      "photoUrl" : "/images/people/assim_hussain.png",
       "shortBio" : "",
       "socials" : [ {
         "icon" : "twitter",
@@ -702,7 +702,7 @@
       "featured" : true,
       "name" : "Sara Vieira",
       "photo" : "/images/people/sara_vieira.jpg",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/993590021276995584/GRGg5x8v_400x400.jpg",
+      "photoUrl" : "/images/people/sara_vieira.jpg",
       "shortBio" : "",
       "socials" : [ {
         "icon" : "",
@@ -734,7 +734,7 @@
       "featured" : true,
       "name" : "Sam Bellen",
       "photo" : "/images/people/sam_bellen.jpg",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/999601981009248256/rwyZINc0_400x400.jpg",
+      "photoUrl" : "/images/people/sam_bellen.jpg",
       "shortBio" : "",
       "socials" : [ {
         "icon" : "",
@@ -766,7 +766,7 @@
       "featured" : true,
       "name" : "Mykhailo Ivankiv",
       "photo" : "/images/people/mykhailo_ivankiv.jpg",
-      "photoUrl" : "https://lh6.googleusercontent.com/eoMFawnXAAhnxCDaDyBaXkolKq8JR_64G5LYMFH3zZmoebApxYc6Ac0zoHZ_KsmOl0qgudcrLlTpFa2swqw=w1920-h925-rw",
+      "photoUrl" : "/images/people/mykhailo_ivankiv.jpg",
       "shortBio" : "",
       "socials" : [ {
         "icon" : "",
@@ -798,7 +798,7 @@
       "featured" : true,
       "name" : "Oleksiy Pletnov",
       "photo" : "/images/people/oleksiy_pletnov.jpg",
-      "photoUrl" : "https://uc52d005dc71f1b590127ace21be.previews.dropboxusercontent.com/p/thumb/AAIA3QQfNpLKpLhFkV607w5Kz1iggKc6P0xZbaxXMHkPloLzT26-f7f-hS0WT6M1HYvc1ODjjWilMw3OyQZQhmmIyuht_9vbbRexxfc2iBj6dDsNfjkAye5C0yGjkDkkU72-BJUx2E9oqLU1wT1ipSBZU6RhEWjLJ3QR1IjU7Pm56RDnwGRjWaPHFcG2id_ISAncjanDqjnKXiQpIUT4wHZ8l1ksmcBHYu0LnmwPeS8foA/p.jpeg?size=2048x1536&size_mode=3",
+      "photoUrl" : "/images/people/oleksiy_pletnov.jpg",
       "shortBio" : "",
       "socials" : [ {
         "icon" : "",
@@ -830,7 +830,7 @@
       "featured" : true,
       "name" : "Serhii Dubovyk",
       "photo" : "/images/people/serhii_dubovyk.jpg",
-      "photoUrl" : "https://scontent.fiev1-1.fna.fbcdn.net/v/t31.0-8/11412317_473495112806985_1649774932189177016_o.jpg?_nc_cat=0&oh=91842dbeb1027f9919c54b1c169ebf42&oe=5C136EFF",
+      "photoUrl" : "/images/people/serhii_dubovyk.jpg",
       "shortBio" : "",
       "socials" : [ {
         "icon" : "",
@@ -861,7 +861,7 @@
       "featured" : true,
       "name" : "Igor Fesenko",
       "photo" : "/images/people/igor_fesenko.jpg",
-      "photoUrl" : "https://lh5.googleusercontent.com/hQ2aTySyDrpj5vhnDyBfbvj_qr0y2BtI-O0yKzzbAGe76GtAeT6fKQn7IsO45mhLlWFfPuWQFZLGAj9WfUo=w1920-h974-rw",
+      "photoUrl" : "/images/people/igor_fesenko.jpg",
       "shortBio" : "",
       "socials" : [ {
         "icon" : "",
