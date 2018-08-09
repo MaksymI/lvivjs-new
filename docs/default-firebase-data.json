@@ -669,6 +669,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "complexity" : "🌶️🌶️",
       "country" : "London, UK",
       "featured" : true,
       "name" : "Assim Hussain",
@@ -696,6 +697,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "complexity" : "🌶️🌶️",
       "country" : "Portugal",
       "featured" : true,
       "name" : "Sara Vieira",
@@ -727,6 +729,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "complexity" : "🌶️🌶️",
       "country" : "Belgium, Brussels",
       "featured" : true,
       "name" : "Sam Bellen",
@@ -739,7 +742,7 @@
         "name" : ""
       }, {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/sambego",
         "name" : "Twitter"
       }, {
         "icon" : "",
@@ -758,6 +761,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "complexity" : "🌶️🌶️🌶️",
       "country" : "Ukraine",
       "featured" : true,
       "name" : "Mykhailo Ivankiv",
@@ -770,7 +774,7 @@
         "name" : ""
       }, {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/Neformal",
         "name" : "Twitter"
       }, {
         "icon" : "",
@@ -789,6 +793,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "complexity" : "🌶️🌶️",
       "country" : "Ukraine",
       "featured" : true,
       "name" : "Oleksiy Pletnov",
@@ -801,7 +806,7 @@
         "name" : ""
       }, {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/epaminond",
         "name" : "Twitter"
       }, {
         "icon" : "",
@@ -820,6 +825,7 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "complexity" : "🌶️🌶️🌶️",
       "country" : "Ukraine",
       "featured" : true,
       "name" : "Serhii Dubovyk",
@@ -831,9 +837,9 @@
         "link" : "",
         "name" : ""
       }, {
-        "icon" : "twitter",
+        "icon" : "",
         "link" : "",
-        "name" : "Twitter"
+        "name" : ""
       }, {
         "icon" : "",
         "link" : "",
@@ -863,7 +869,7 @@
         "name" : ""
       }, {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/Ky7m",
         "name" : "Twitter"
       }, {
         "icon" : "",
