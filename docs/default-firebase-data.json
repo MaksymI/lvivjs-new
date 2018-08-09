@@ -677,6 +677,10 @@
       "photoUrl" : "/images/people/assim_hussain.png",
       "shortBio" : "",
       "socials" : [ {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      }, {
         "icon" : "twitter",
         "link" : "http://twitter.com/jawache",
         "name" : "Twitter"
