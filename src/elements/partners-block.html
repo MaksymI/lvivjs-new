@@ -13,13 +13,14 @@
     <style is="custom-style" include="shared-styles flex flex-alignment"></style>
 
     <style>
-
       :host {
         display: block;
       }
 
       .block-title {
         margin: 24px 0 8px;
+        color: var(--default-primary-color);
+        /* font-weight: bold; */
       }
 
       .logos-wrapper {
@@ -60,31 +61,18 @@
       <h1 class="container-title">{$ partnersBlock.title $}</h1>
 
       <template is="dom-repeat" items="[[partners]]" as="block">
-          <h4 class="block-title">[[block.title]]</h4>
-          <div class="logos-wrapper">
-            <template is="dom-repeat" items="[[block.items]]" as="logo">
-              <a
-                class="logo-item card"
-                href$="[[logo.url]]"
-                title$="[[logo.name]]"
-                target="_blank"
-                rel="noopener noreferrer"
-                layout horizontal center-center
-              >
-                <plastic-image
-                  class="logo-img"
-                  srcset="[[logo.logoUrl]]"
-                  sizing="contain"
-                  lazy-load
-                  preload fade
-                ></plastic-image>
-              </a>
-            </template>
-          </div>
+        <h2 class="block-title">[[block.title]]</h2>
+        <div class="logos-wrapper">
+          <template is="dom-repeat" items="[[block.items]]" as="logo">
+            <a class="logo-item card" href$="[[logo.url]]" title$="[[logo.name]]" target="_blank" rel="noopener noreferrer" layout horizontal
+              center-center>
+              <plastic-image class="logo-img" srcset="[[logo.logoUrl]]" sizing="contain" lazy-load preload fade></plastic-image>
+            </a>
+          </template>
+        </div>
       </template>
 
-      <paper-button class="cta-button animated icon-right"
-        on-tap="_addPotentialPartner">
+      <paper-button class="cta-button animated icon-right" on-tap="_addPotentialPartner">
         <span>{$ partnersBlock.button $}</span>
         <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
       </paper-button>
@@ -93,7 +81,6 @@
   </template>
 
   <script>
-
     class PartnersBlock extends ReduxMixin(Polymer.Element) {
       static get is() {
         return 'partners-block';
@@ -150,12 +137,15 @@
             this.dispatch(dialogsActions.setDialogError(DIALOGS.SUBSCRIBE));
           } else {
             dialogsActions.closeDialog(DIALOGS.SUBSCRIBE);
-            toastActions.showToast({ message: '{$ partnersBlock.toast $}' });
+            toastActions.showToast({
+              message: '{$ partnersBlock.toast $}'
+            });
           }
         }
       }
     }
 
     window.customElements.define(PartnersBlock.is, PartnersBlock);
+
   </script>
 </dom-module>
