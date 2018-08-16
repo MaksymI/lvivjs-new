@@ -866,6 +866,7 @@
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
+      "complexity" : "Complexity: 🌶️🌶️",
       "companyLogoUrl" : "",
       "country" : "Ukraine",
       "featured" : true,
@@ -886,7 +887,8 @@
         "link" : "",
         "name" : ""
       } ],
-      "title" : ""
+      "title" : "What I learned making an integration between global ecosystems",
+      "topic" : "Topic:"
     }
   },
   "team" : [ {
