@@ -83,6 +83,26 @@
       "logoUrl": "../images/logos/Sigma.png",
       "name": "Sigma",
       "url": "https://sigma.software/"
+    }, {
+      "logoUrl": "../images/logos/SoftServe.png",
+      "name": "SoftServe",
+      "url": "https://career.softserveinc.com/en-us/vacancy/set/321a1a34b833005375ab8c78adf0e67f423670c3"
+    }, {
+      "logoUrl": "../images/logos/DataArt.png",
+      "name": "DataArt",
+      "url": "http://www.dataart.com.ua/"
+    }, {
+      "logoUrl": "../images/logos/Eliftech.png",
+      "name": "ElifTech",
+      "url": "https://www.facebook.com/eliftech.life/"
+    }, {
+      "logoUrl": "../images/logos/GTM.png",
+      "name": "GTM",
+      "url": "https://www.facebook.com/globaltechmakers/"
+    }, {
+      "logoUrl": "../images/logos/Sombra.png",
+      "name": "Sombra",
+      "url": "https://sombrainc.com/"
     }],
     "title": "Gold Partners"
   }],
