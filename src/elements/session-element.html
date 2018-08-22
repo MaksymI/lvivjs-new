@@ -136,7 +136,6 @@
 
     <a
       class="session"
-      href$="/schedule/[[dayName]]?sessionId=[[session.id]]"
       featured$="[[isFeatured]]"
       layout vertical
       relative
@@ -157,11 +156,11 @@
         <div class="session-meta">
           <div hidden$="[[!session.complexity]]">[[session.complexity]]</div>
         </div>
-        <iron-icon
+        <!-- <iron-icon
           class="bookmark-session"
           icon="hoverboard:[[_getFeaturedSessionIcon(featuredSessions, session.id)]]"
           on-tap="_toggleFeaturedSession"
-        ></iron-icon>
+        ></iron-icon> -->
       </div>
 
       <div class="session-footer">

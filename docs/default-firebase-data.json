@@ -107,8 +107,8 @@
     "title": "Gold Partners"
   }],
   "schedule": {
-    "2016-09-09": {
-      "dateReadable": "September 9",
+    "2018-09-01": {
+      "dateReadable": "September 1",
       "timeslots": [{
         "endTime": "10:00",
         "sessions": [{
@@ -342,7 +342,7 @@
       "title": "I got 99 problems but GraphQL ain't one"
     },
     "104": {
-      "complexity": "Intermediate",
+      "complexity": "Advanced 🌶️🌶️️🌶️",
       "description": "When manager comes to you with a task to create a simple registrations form, why not to go nuts and build the best possible validation with finite automata and formal grammar",
       "language": "Ukraine",
       "speakers": ["mykhailo_ivankiv"],
@@ -367,11 +367,11 @@
     },
     "107": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "What I learned making an integration between global ecosystems",
       "language": "English",
       "speakers": ["igor_fesenko"],
       "tags": ["Web"],
-      "title": ""
+      "title": "What I learned making an integration between global ecosystems"
     },
     "108": {
       "complexity": "Intermediate",
