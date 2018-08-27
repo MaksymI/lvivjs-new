@@ -8,9 +8,8 @@
   },
   "hosting": {
     "public": "./build",
-    "cleanUrls": true,
     "rewrites": [{
-      "source": "/**",
+      "source": "**",
       "function": "prerender"
     }],
     "ignore": [
@@ -20,29 +19,26 @@
       "firebase.json",
       "README.md"
     ],
-    "headers": [
-      {
-        "source": "**",
-        "headers": [
-          {
-            "key": "X-Content-Type-Options",
-            "value": "nosniff"
-          },
-          {
-            "key": "X-Frame-Options",
-            "value": "DENY"
-          },
-          {
-            "key": "X-XSS-Protection",
-            "value": "1; mode=block"
-          },
-          {
-            "key": "Referrer-Policy",
-            "value": "same-origin"
-          }
-        ]
-      }
-    ]
+    "headers": [{
+      "source": "**",
+      "headers": [{
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "1; mode=block"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "same-origin"
+        }
+      ]
+    }]
   },
   "functions": {
     "predeploy": [
