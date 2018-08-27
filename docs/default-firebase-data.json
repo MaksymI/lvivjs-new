@@ -87,12 +87,31 @@
       "logoUrl": "../images/logos/SoftServe.png",
       "name": "SoftServe",
       "url": "https://career.softserveinc.com/en-us/vacancy/set/321a1a34b833005375ab8c78adf0e67f423670c3"
+<<<<<<< HEAD
+=======
+    }, {
+      "logoUrl": "../images/logos/DataArt.png",
+      "name": "DataArt",
+      "url": "http://www.dataart.com.ua/"
+    }, {
+      "logoUrl": "../images/logos/Eliftech.png",
+      "name": "ElifTech",
+      "url": "https://www.facebook.com/eliftech.life/"
+    }, {
+      "logoUrl": "../images/logos/GTM.png",
+      "name": "GTM",
+      "url": "https://www.facebook.com/globaltechmakers/"
+    }, {
+      "logoUrl": "../images/logos/Sombra.png",
+      "name": "Sombra",
+      "url": "https://sombrainc.com/"
+>>>>>>> f364906e7b9e65cb0aee0bdd8bd009e2dc0d03eb
     }],
     "title": "Gold Partners"
   }],
   "schedule": {
-    "2016-09-09": {
-      "dateReadable": "September 9",
+    "2018-09-01": {
+      "dateReadable": "September 1",
       "timeslots": [{
         "endTime": "10:00",
         "sessions": [{
@@ -326,7 +345,7 @@
       "title": "I got 99 problems but GraphQL ain't one"
     },
     "104": {
-      "complexity": "Intermediate",
+      "complexity": "Advanced 🌶️🌶️️🌶️",
       "description": "When manager comes to you with a task to create a simple registrations form, why not to go nuts and build the best possible validation with finite automata and formal grammar",
       "language": "Ukraine",
       "speakers": ["mykhailo_ivankiv"],
@@ -351,11 +370,11 @@
     },
     "107": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "What I learned making an integration between global ecosystems",
       "language": "English",
       "speakers": ["igor_fesenko"],
       "tags": ["Web"],
-      "title": ""
+      "title": "What I learned making an integration between global ecosystems"
     },
     "108": {
       "complexity": "Intermediate",
