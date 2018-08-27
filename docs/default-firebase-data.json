@@ -108,625 +108,588 @@
   }],
   "schedule": {
     "2018-09-01": {
+      "tracks": [{
+        "title": "Expo hall"
+      }, {
+        "title": "Conference hall"
+      }, {
+        "title": "Workshops hall"
+      }],
       "dateReadable": "September 1",
       "timeslots": [{
-        "endTime": "10:00",
         "sessions": [{
           "items": [132]
         }],
+        "endTime": "09:50",
         "startTime": "09:00"
       }, {
-        "endTime": "10:15",
+        "endTime": "10:00",
+        "startTime": "09:50",
         "sessions": [{
           "items": [136]
-        }],
-        "startTime": "10:00"
+        }]
       }, {
-        "endTime": "11:00",
+        "endTime": "10:45",
+        "startTime": "10:00",
         "sessions": [{
-          "items": [139]
-        }],
-        "startTime": "10:15"
+          "items": [101]
+        }]
       }, {
-        "endTime": "11:40",
+        "endTime": "11:45",
+        "startTime": "11:00",
         "sessions": [{
-          "items": [103, 112]
+          "items": [107]
         }, {
-          "items": [120]
-        }, {
-          "extend": 3,
-          "items": [109]
-        }],
-        "startTime": "11:00"
+          "items": [104]
+        }]
       }, {
-        "endTime": "12:30",
         "sessions": [{
-          "items": [129]
-        }, {
-          "items": [116]
+          "items": [103]
         }],
-        "startTime": "11:50"
+        "endTime": "12:45",
+        "startTime": "12:00"
       }, {
-        "endTime": "14:00",
+        "startTime": "13:00",
         "sessions": [{
           "items": [133]
         }],
-        "startTime": "12:30"
+        "endTime": "14:00"
       }, {
-        "endTime": "14:40",
         "sessions": [{
-          "items": [101]
-        }, {
-          "items": [118]
-        }, {
-          "extend": 2,
-          "items": [107]
+          "items": [102]
         }],
+        "endTime": "14:45",
         "startTime": "14:00"
       }, {
-        "endTime": "15:30",
+        "endTime": "15:45",
+        "startTime": "15:00",
         "sessions": [{
-          "items": [140]
+          "items": ["110"]
         }, {
-          "items": [126]
-        }],
-        "startTime": "14:50"
+          "items": [105]
+        }]
       }, {
-        "endTime": "16:00",
         "sessions": [{
           "items": [134]
         }],
-        "startTime": "15:30"
+        "endTime": "16:15",
+        "startTime": "15:45"
       }, {
-        "endTime": "16:40",
-        "sessions": [{
-          "items": [105]
-        }, {
-          "items": [127]
-        }, {
-          "extend": 3,
-          "items": [119]
-        }],
-        "startTime": "16:00"
-      }, {
-        "endTime": "17:30",
-        "sessions": [{
-          "items": [112]
-        }, {
-          "items": [111]
-        }],
-        "startTime": "16:50"
-      }, {
-        "endTime": "18:20",
-        "sessions": [{
-          "items": [106]
-        }, {
-          "items": [125]
-        }],
-        "startTime": "17:40"
-      }, {
-        "endTime": "22:30",
-        "sessions": [{
-          "items": [137]
-        }],
-        "startTime": "18:30"
-      }],
-      "tracks": [{
-        "title": "Expo hall"
-      }, {
-        "title": "Conference hall"
-      }, {
-        "title": "Workshops hall"
-      }]
-    },
-    "2016-09-10": {
-      "dateReadable": "September 10",
-      "timeslots": [{
-        "endTime": "10:10",
-        "sessions": [{
-          "items": [135]
-        }],
-        "startTime": "09:30"
-      }, {
-        "endTime": "10:50",
-        "sessions": [{
-          "items": [114]
-        }, {
-          "items": [117]
-        }, {
-          "items": [121]
-        }],
-        "startTime": "10:10"
-      }, {
-        "endTime": "11:40",
-        "sessions": [{
-          "items": [122]
-        }, {
-          "items": [113]
-        }, {
-          "extend": 2,
-          "items": [121]
-        }],
-        "startTime": "11:00"
-      }, {
-        "endTime": "12:30",
-        "sessions": [{
-          "items": [104]
-        }, {
-          "items": [124]
-        }],
-        "startTime": "11:50"
-      }, {
-        "endTime": "14:00",
-        "sessions": [{
-          "items": [133]
-        }],
-        "startTime": "12:30"
-      }, {
-        "endTime": "14:40",
+        "endTime": "16:45",
+        "startTime": "16:15",
         "sessions": [{
           "items": [108]
         }, {
-          "items": [128]
-        }, {
-          "extend": 2,
-          "items": [102]
-        }],
-        "startTime": "14:00"
+          "items": [106]
+        }]
       }, {
-        "endTime": "15:30",
         "sessions": [{
-          "items": [110]
-        }, {
-          "items": [123]
+          "items": [138]
         }],
-        "startTime": "14:50"
+        "endTime": "17:15",
+        "startTime": "17:00"
       }, {
-        "endTime": "16:00",
         "sessions": [{
-          "items": [134]
+          "items": [137]
         }],
-        "startTime": "15:30"
-      }, {
-        "endTime": "16:40",
-        "sessions": [{
-          "items": [131]
-        }, {
-          "items": [140]
-        }, {
-          "extend": 2,
-          "items": [130]
-        }],
-        "startTime": "16:00"
-      }, {
-        "endTime": "17:30",
-        "sessions": [{
-          "items": [115]
-        }, {
-          "items": [140]
-        }],
-        "startTime": "16:50"
+        "endTime": "22:00",
+        "startTime": "18:00"
       }],
-      "tracks": [{
-        "title": "Expo hall"
-      }, {
-        "title": "Conference hall"
-      }, {
-        "title": "Workshops hall"
-      }]
+      "date": "2018-01-09"
     }
   },
   "sessions": {
     "101": {
-      "complexity": "Beginner",
-      "description": "Ive got a talk called 'Everyday AI' about how to build AI powered applications using APIs or by using the new tensorflow.js libraries.  It's in the format of demoing a bunch of applications I built and then after a quick demo I show you the 'highlights' for how to build it yourself.  If I have enough time I also have a very quick intro to deep learning and the new tensorflow.js library   Basically, JavaScript gets into everything and now it's getting into AI, want to show people all the ways they can get involved!",
       "language": "English",
-      "speakers": ["assim_hussain"],
+      "description": "Ive got a talk called 'Everyday AI' about how to build AI powered applications using APIs or by using the new tensorflow.js libraries.  It's in the format of demoing a bunch of applications I built and then after a quick demo I show you the 'highlights' for how to build it yourself.  If I have enough time I also have a very quick intro to deep learning and the new tensorflow.js library   Basically, JavaScript gets into everything and now it's getting into AI, want to show people all the ways they can get involved!",
+      "complexity": "Intermediate 🌶️🌶️️",
       "tags": ["AI"],
+      "speakers": ["assim_hussain"],
       "title": "Everyday AI "
     },
     "102": {
-      "complexity": "Beginner",
-      "description": "Channel your inner rockstar with the web audio API.",
-      "language": "English",
-      "speakers": ["sam_bellen"],
       "tags": ["WEB API"],
-      "title": "Channel your inner rockstar with the web audio API."
+      "speakers": ["sam_bellen"],
+      "title": "Channel your inner rockstar with the web audio API.",
+      "language": "English",
+      "description": "Channel your inner rockstar with the web audio API.",
+      "complexity": "Intermediate 🌶️🌶️️"
     },
     "103": {
-      "complexity": "Intermediate",
-      "description": "I got 99 problems but GraphQL ain't one",
-      "language": "English",
-      "speakers": ["sara_vieira"],
+      "complexity": "Intermediate 🌶️🌶️️",
       "tags": ["GraphQL"],
-      "title": "I got 99 problems but GraphQL ain't one"
+      "speakers": ["sara_vieira"],
+      "title": "I got 99 problems but GraphQL ain't one",
+      "language": "English",
+      "description": "I got 99 problems but GraphQL ain't one"
     },
     "104": {
       "complexity": "Advanced 🌶️🌶️️🌶️",
-      "description": "When manager comes to you with a task to create a simple registrations form, why not to go nuts and build the best possible validation with finite automata and formal grammar",
-      "language": "Ukraine",
-      "speakers": ["mykhailo_ivankiv"],
       "tags": ["Web"],
-      "title": "How to create registration form"
+      "speakers": ["mykhailo_ivankiv"],
+      "title": "How to create registration form",
+      "language": "Ukraine",
+      "description": "When manager comes to you with a task to create a simple registrations form, why not to go nuts and build the best possible validation with finite automata and formal grammar"
     },
     "105": {
-      "complexity": "Intermediate",
-      "description": "The Good Project",
       "language": "Ukraine",
-      "speakers": ["oleksiy_pletnov"],
+      "description": "The Good Project",
+      "complexity": "Intermediate 🌶️🌶️️",
       "tags": ["Web"],
+      "speakers": ["oleksiy_pletnov"],
       "title": "The Good Project"
     },
     "106": {
-      "complexity": "Intermediate",
-      "description": "Bring 'life' to WebAssembly with Genetic Algorithms and C++",
-      "language": "Ukraine",
-      "speakers": ["serhii_dubovyk"],
+      "complexity": "Advanced 🌶️🌶️️🌶️",
       "tags": ["Web"],
-      "title": "Bring 'life' to WebAssembly with Genetic Algorithms and C++"
+      "speakers": ["serhii_dubovyk"],
+      "title": "Bring 'life' to WebAssembly with Genetic Algorithms and C++",
+      "language": "Ukraine",
+      "description": "Bring 'life' to WebAssembly with Genetic Algorithms and C++"
     },
     "107": {
-      "complexity": "Intermediate",
-      "description": "What I learned making an integration between global ecosystems",
-      "language": "English",
       "speakers": ["igor_fesenko"],
-      "tags": ["Web"],
-      "title": "What I learned making an integration between global ecosystems"
+      "title": "What I learned making an integration between global ecosystems",
+      "language": "English",
+      "description": "What I learned making an integration between global ecosystems",
+      "complexity": "Intermediate 🌶️🌶️️",
+      "tags": ["Web"]
     },
     "108": {
-      "complexity": "Intermediate",
-      "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
-      "speakers": ["gerard_sans"],
       "tags": ["Web"],
-      "title": "New Data Architecture in Angular 2",
-      "videoId": "pgmLkwD-mqM"
+      "speakers": ["vladimir_agafonkin"],
+      "title": "Fast by default: everyday algorithmic thinking for developers",
+      "language": "Ukraine",
+      "description": "Fast by default: everyday algorithmic thinking for developers",
+      "complexity": "Intermediate 🌶️🌶️️"
     },
     "109": {
-      "complexity": "Beginner",
-      "description": "TBD",
-      "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
-      "speakers": ["jozef_vodicka"],
+      "complexity": "Beginner",
       "tags": ["Cloud"],
-      "title": "How much money Firebase can save you"
+      "speakers": ["jozef_vodicka"],
+      "title": "How much money Firebase can save you",
+      "language": "English",
+      "description": "TBD"
     },
     "110": {
-      "complexity": "Intermediate",
-      "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
+      "tags": ["Web"],
+      "speakers": ["ilia_idakiev"],
+      "title": "",
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-      "speakers": ["mateusz_herych"],
-      "tags": ["Android"],
-      "title": "The ultimate guide to MVP pattern on Android"
+      "description": "",
+      "complexity": "Intermediate 🌶️🌶️️"
     },
     "111": {
-      "complexity": "Intermediate",
-      "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
-      "speakers": ["david_mayboroda"],
       "tags": ["Android"],
-      "title": "Building modular architecture apps with Dagger 2"
+      "speakers": ["david_mayboroda"],
+      "title": "Building modular architecture apps with Dagger 2",
+      "language": "English",
+      "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
+      "presentation": "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
+      "complexity": "Intermediate"
     },
     "112": {
-      "complexity": "Intermediate",
-      "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
-      "language": "English",
-      "speakers": ["konrad_dzwinel"],
       "tags": ["Web"],
-      "title": "Building web apps in 2016"
+      "speakers": ["konrad_dzwinel"],
+      "title": "Building web apps in 2016",
+      "language": "English",
+      "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
+      "complexity": "Intermediate"
     },
     "113": {
-      "complexity": "Intermediate",
-      "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers": ["jean-baptiste_clion"],
       "tags": ["Cloud"],
-      "title": "Microservices in Google App Engine"
+      "speakers": ["jean-baptiste_clion"],
+      "title": "Microservices in Google App Engine",
+      "language": "English",
+      "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+      "presentation": "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
+      "complexity": "Intermediate"
     },
     "114": {
-      "complexity": "Intermediate",
-      "description": "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
       "language": "English",
-      "speakers": [12],
+      "description": "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "complexity": "Intermediate",
       "tags": ["Android"],
+      "speakers": [12],
       "title": "I’ve been doing some syncing…"
     },
     "115": {
-      "complexity": "Beginner",
       "description": "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
-      "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers": ["paul_lammertsma"],
+      "complexity": "Beginner",
       "tags": ["Android"],
+      "speakers": ["paul_lammertsma"],
       "title": "Android tool-chain and run-time improvements in N",
-      "videoId": "WqULb6bdwwg"
+      "videoId": "WqULb6bdwwg",
+      "language": "English"
     },
     "116": {
-      "complexity": "Beginner",
-      "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
-      "language": "English",
       "presentation": "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-      "speakers": ["aleksander_piotrowski"],
+      "complexity": "Beginner",
       "tags": ["Web"],
-      "title": "On Polymer and smileys... or Polysmileys"
+      "speakers": ["aleksander_piotrowski"],
+      "title": "On Polymer and smileys... or Polysmileys",
+      "language": "English",
+      "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that."
     },
     "117": {
-      "complexity": "Beginner",
-      "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
-      "speakers": ["carmen_popovicu"],
       "tags": ["Cloud"],
-      "title": "Building data pipelines: from simple to more advanced - hands-on experience"
+      "speakers": ["carmen_popovicu"],
+      "title": "Building data pipelines: from simple to more advanced - hands-on experience",
+      "language": "English",
+      "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
+      "presentation": "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
+      "complexity": "Beginner"
     },
     "118": {
-      "complexity": "Intermediate",
-      "description": "TBD",
       "language": "English",
+      "description": "TBD",
       "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-      "speakers": ["sergii_khomenko"],
+      "complexity": "Intermediate",
       "tags": ["Android"],
+      "speakers": ["sergii_khomenko"],
       "title": "Kotlin + Android"
     },
     "119": {
-      "complexity": "Beginner",
-      "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-      "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
-      "speakers": ["dmytro_danylyk"],
+      "complexity": "Beginner",
       "tags": ["Android"],
-      "title": "Hands-on with UI testing for Android developers"
+      "speakers": ["dmytro_danylyk"],
+      "title": "Hands-on with UI testing for Android developers",
+      "language": "English",
+      "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!"
     },
     "120": {
-      "complexity": "Beginner",
       "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-      "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers": ["jana_moudra"],
+      "complexity": "Beginner",
       "tags": ["Web"],
-      "title": "Progressive web apps - prepare your web for 2017"
+      "speakers": ["jana_moudra"],
+      "title": "Progressive web apps - prepare your web for 2017",
+      "language": "English"
     },
     "121": {
-      "complexity": "Intermediate",
-      "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-      "language": "English",
-      "speakers": ["jana_moudra"],
       "tags": ["Web"],
-      "title": "Offline-first progressive web apps"
+      "speakers": ["jana_moudra"],
+      "title": "Offline-first progressive web apps",
+      "language": "English",
+      "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
+      "complexity": "Intermediate"
     },
     "122": {
-      "complexity": "Intermediate",
-      "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
+      "videoId": "b9NgjqM6dvk",
       "language": "English",
+      "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
       "presentation": "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers": ["jakub_škvára"],
+      "complexity": "Intermediate",
       "tags": ["Android"],
-      "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId": "b9NgjqM6dvk"
+      "speakers": ["jakub_škvára"],
+      "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips"
     },
     "123": {
       "complexity": "Beginner",
-      "description": "TBD",
-      "language": "English",
-      "speakers": ["david_vávra"],
       "tags": ["Web"],
-      "title": "TBD"
+      "speakers": ["david_vávra"],
+      "title": "TBD",
+      "language": "English",
+      "description": "TBD"
     },
     "124": {
-      "complexity": "Intermediate",
-      "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
-      "language": "English",
-      "speakers": ["valentyn_shybanov"],
-      "tags": ["Android"],
       "title": "Continues Integration in Android",
-      "videoId": "MmGDQkgknfY"
+      "videoId": "MmGDQkgknfY",
+      "language": "English",
+      "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
+      "complexity": "Intermediate",
+      "tags": ["Android"],
+      "speakers": ["valentyn_shybanov"]
     },
     "125": {
-      "complexity": "Intermediate",
-      "description": "TBD",
-      "language": "English",
       "speakers": ["sergiy_mokienko"],
-      "tags": ["Cloud"],
-      "title": "Kubernetes in a real world"
+      "title": "Kubernetes in a real world",
+      "language": "English",
+      "description": "TBD",
+      "complexity": "Intermediate",
+      "tags": ["Cloud"]
     },
     "126": {
-      "complexity": "Intermediate",
-      "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers": ["ihor_dvoretskyi"],
       "tags": ["Android"],
+      "speakers": ["ihor_dvoretskyi"],
       "title": "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId": "We04nyIIsA0"
+      "videoId": "We04nyIIsA0",
+      "language": "English",
+      "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
+      "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
+      "complexity": "Intermediate"
     },
     "127": {
-      "complexity": "Intermediate",
-      "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-      "language": "Ukrainian",
-      "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers": ["michael_pustovit"],
       "tags": ["Android"],
-      "title": "ExoPlayer: Media playback without pain (almost...)"
+      "speakers": ["michael_pustovit"],
+      "title": "ExoPlayer: Media playback without pain (almost...)",
+      "language": "Ukrainian",
+      "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
+      "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
+      "complexity": "Intermediate"
     },
     "128": {
-      "complexity": "Beginner",
-      "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-      "language": "English",
-      "speakers": ["anton__minashkin"],
       "tags": ["Android"],
-      "title": "Android Wear 2.0: Great Changes Upcoming this Fall"
+      "speakers": ["anton__minashkin"],
+      "title": "Android Wear 2.0: Great Changes Upcoming this Fall",
+      "language": "English",
+      "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
+      "complexity": "Beginner"
     },
     "129": {
-      "complexity": "Intermediate",
-      "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers": ["constantine_mars"],
       "tags": ["Android"],
-      "title": "Accessibility on Android"
+      "speakers": ["constantine_mars"],
+      "title": "Accessibility on Android",
+      "language": "English",
+      "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
+      "presentation": "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
+      "complexity": "Intermediate"
     },
     "130": {
-      "complexity": "Intermediate",
-      "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "language": "English",
-      "speakers": ["constantine_mars"],
       "tags": ["Android"],
-      "title": "Designing an Android Wear Application"
+      "speakers": ["constantine_mars"],
+      "title": "Designing an Android Wear Application",
+      "language": "English",
+      "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+      "complexity": "Intermediate"
     },
     "131": {
-      "complexity": "Intermediate",
-      "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
       "language": "English",
+      "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
       "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers": ["resul_caner__yildirim"],
+      "complexity": "Intermediate",
       "tags": ["Android"],
+      "speakers": ["resul_caner__yildirim"],
       "title": "Deal with it: Android DataBinding explained"
     },
     "132": {
-      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
-      "icon": "registration",
+      "title": "REGISTRATION  AND WELCOME COFFEE",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title": "Registration & morning Coffee"
+      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+      "icon": "registration"
     },
     "133": {
       "description": "Foooooooood!",
       "icon": "lunch",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title": "Lunch"
+      "title": "BIG BREAK",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225"
     },
     "134": {
-      "description": "Coffeeeeeee!",
       "icon": "coffee-break",
+      "title": "COFFEE BREAK",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-      "title": "Coffee break"
+      "description": "Coffeeeeeee!"
     },
     "135": {
-      "description": "Coffeeeeeee!",
       "icon": "coffee-break",
+      "title": "Morning coffee",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
-      "title": "Morning coffee"
+      "description": "Coffeeeeeee!"
     },
     "136": {
-      "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
       "icon": "opening",
+      "title": "LvivJS 2018 OPENING",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
-      "title": "GDG DevFest Ukraine 2016 Opening"
+      "description": "Official start of the conference. Greetings from the organizers, sponsors and partners."
     },
     "137": {
-      "description": "Afterparty is a great time to have some fun and meet new people",
-      "icon": "party",
+      "title": "Afterparty & Networking",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-      "title": "Afterparty & Networking"
+      "description": "Afterparty is a great time to have some fun and meet new people",
+      "icon": "party"
     },
     "138": {
       "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title": "Conference closing and contest winners announcements"
+      "title": "CONFERENCE CLOSING",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed"
     },
     "139": {
-      "description": "",
+      "title": "Keynote",
       "language": "English",
-      "title": "Keynote"
+      "description": ""
     },
     "140": {
-      "description": "TBD",
       "language": "English",
+      "description": "TBD",
       "title": "TBD"
     }
   },
   "speakers": {
     "assim_hussain": {
-      "badges": [{
-        "description": "",
-        "link": "",
-        "name": ""
-      }, {
-        "description": "",
-        "link": "",
-        "name": ""
-      }],
-      "bio": "",
-      "company": "",
-      "companyLogo": "",
-      "companyLogoUrl": "",
-      "complexity": "Complexity: 🌶️🌶️",
-      "country": "London, UK",
-      "featured": true,
-      "name": "Assim Hussain",
-      "photo": "/images/people/assim_hussain.png",
+      "shortBio": "",
       "photoUrl": "/images/people/assim_hussain.png",
-      "shortBio": "",
-      "socials": [{
-        "icon": "",
-        "link": "",
-        "name": ""
-      }, {
-        "icon": "twitter",
-        "link": "http://twitter.com/jawache",
-        "name": "Twitter"
-      }, {
-        "icon": "",
-        "link": "",
-        "name": ""
-      }],
-      "title": "Everyday AI",
-      "topic": "Topic:"
-    },
-    "sara_vieira": {
-      "badges": [{
-        "description": "",
-        "link": "",
-        "name": ""
-      }],
-      "bio": "",
-      "company": "",
+      "name": "Assim Hussain",
       "companyLogo": "",
-      "companyLogoUrl": "",
-      "complexity": "Complexity: 🌶️🌶️",
-      "country": "Portugal",
+      "title": "Everyday AI",
+      "photo": "/images/people/assim_hussain.png",
+      "order": 0,
       "featured": true,
-      "name": "Sara Vieira",
-      "photo": "/images/people/sara_vieira.jpg",
-      "photoUrl": "/images/people/sara_vieira.jpg",
-      "shortBio": "",
+      "complexity": "Complexity: 🌶️🌶️",
+      "company": "",
+      "companyLogoUrl": "",
       "socials": [{
+        "name": "",
+        "icon": "",
+        "link": ""
+      }, {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "http://twitter.com/jawache"
+      }, {
         "icon": "",
         "link": "",
         "name": ""
+      }],
+      "country": "London, UK",
+      "bio": "",
+      "topic": "Topic:",
+      "badges": [{
+        "name": "",
+        "description": "",
+        "link": ""
+      }, {
+        "name": "",
+        "description": "",
+        "link": ""
+      }]
+    },
+    "igor_fesenko": {
+      "bio": "",
+      "topic": "Topic:",
+      "badges": [{
+        "name": "",
+        "description": "",
+        "link": ""
+      }],
+      "shortBio": "",
+      "photoUrl": "/images/people/igor_fesenko.jpg",
+      "name": "Igor Fesenko",
+      "companyLogo": "",
+      "title": "What I learned making an integration between global ecosystems",
+      "photo": "/images/people/igor_fesenko.jpg",
+      "order": 6,
+      "featured": true,
+      "complexity": "Complexity: 🌶️🌶️",
+      "company": "",
+      "companyLogoUrl": "",
+      "socials": [{
+        "name": "",
+        "icon": "",
+        "link": ""
       }, {
         "icon": "twitter",
-        "link": "https://twitter.com/NikkitaFTW",
+        "link": "https://twitter.com/Ky7m",
         "name": "Twitter"
       }, {
         "icon": "",
         "link": "",
         "name": ""
       }],
-      "title": "I got 99 problems but GraphQL ain't one",
-      "topic": "Topic:"
+      "country": "Ukraine"
+    },
+    "ilia_idakiev": {
+      "photoUrl": "/images/people/ilia_idakiev.jpg",
+      "socials": [{
+        "link": "",
+        "icon": "",
+        "name": ""
+      }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/ilia_idakiev",
+        "icon": "twitter"
+      }, {
+        "name": "",
+        "link": "",
+        "icon": ""
+      }],
+      "name": "Ilia Idakiev",
+      "country": "Sofia, Bulgaria",
+      "title": "",
+      "photo": "/images/people/ilia_idakiev.jpg",
+      "order": 9,
+      "featured": true
+    },
+    "mykhailo_ivankiv": {
+      "order": 3,
+      "featured": true,
+      "complexity": "Complexity: 🌶️🌶️️🌶️",
+      "company": "",
+      "companyLogoUrl": "",
+      "socials": [{
+        "icon": "",
+        "link": "",
+        "name": ""
+      }, {
+        "icon": "twitter",
+        "link": "https://twitter.com/Neformal",
+        "name": "Twitter"
+      }, {
+        "name": "",
+        "icon": "",
+        "link": ""
+      }],
+      "country": "Ukraine",
+      "bio": "",
+      "topic": "Topic:",
+      "badges": [{
+        "link": "",
+        "name": "",
+        "description": ""
+      }],
+      "shortBio": "",
+      "photoUrl": "/images/people/mykhailo_ivankiv.jpg",
+      "name": "Mykhailo Ivankiv",
+      "companyLogo": "",
+      "title": "How to create registration form",
+      "photo": "/images/people/mykhailo_ivankiv.jpg"
+    },
+    "oleksiy_pletnov": {
+      "companyLogo": "",
+      "title": "The Good Project",
+      "photo": "/images/people/oleksiy_pletnov.jpg",
+      "order": 4,
+      "featured": true,
+      "complexity": "Complexity: 🌶️🌶️",
+      "company": "",
+      "companyLogoUrl": "",
+      "socials": [{
+        "icon": "",
+        "link": "",
+        "name": ""
+      }, {
+        "icon": "twitter",
+        "link": "https://twitter.com/epaminond",
+        "name": "Twitter"
+      }, {
+        "name": "",
+        "icon": "",
+        "link": ""
+      }],
+      "country": "Ukraine",
+      "bio": "",
+      "topic": "Topic:",
+      "badges": [{
+        "link": "",
+        "name": "",
+        "description": ""
+      }],
+      "shortBio": "",
+      "photoUrl": "/images/people/oleksiy_pletnov.jpg",
+      "name": "Oleksiy Pletnov"
     },
     "sam_bellen": {
-      "badges": [{
-        "description": "",
-        "link": "",
-        "name": ""
-      }],
-      "bio": "",
-      "company": "",
       "companyLogo": "",
-      "companyLogoUrl": "",
-      "complexity": "Complexity: 🌶️🌶️",
-      "country": "Belgium, Brussels",
-      "featured": true,
-      "name": "Sam Bellen",
+      "title": "Channel your inner rockstar with the web audio API",
       "photo": "/images/people/sam_bellen.jpg",
-      "photoUrl": "/images/people/sam_bellen.jpg",
-      "shortBio": "",
+      "order": 2,
+      "featured": true,
+      "complexity": "Complexity: 🌶️🌶️",
+      "company": "",
+      "companyLogoUrl": "",
       "socials": [{
         "icon": "",
         "link": "",
@@ -740,140 +703,118 @@
         "link": "",
         "name": ""
       }],
-      "title": "Channel your inner rockstar with the web audio API",
-      "topic": "Topic:"
-    },
-    "mykhailo_ivankiv": {
-      "badges": [{
-        "description": "",
-        "link": "",
-        "name": ""
-      }],
+      "country": "Belgium, Brussels",
       "bio": "",
-      "company": "",
-      "companyLogo": "",
-      "companyLogoUrl": "",
-      "complexity": "Complexity: 🌶️🌶️️🌶️",
-      "country": "Ukraine",
-      "featured": true,
-      "name": "Mykhailo Ivankiv",
-      "photo": "/images/people/mykhailo_ivankiv.jpg",
-      "photoUrl": "/images/people/mykhailo_ivankiv.jpg",
+      "topic": "Topic:",
+      "badges": [{
+        "name": "",
+        "description": "",
+        "link": ""
+      }],
       "shortBio": "",
-      "socials": [{
-        "icon": "",
-        "link": "",
-        "name": ""
-      }, {
-        "icon": "twitter",
-        "link": "https://twitter.com/Neformal",
-        "name": "Twitter"
-      }, {
-        "icon": "",
-        "link": "",
-        "name": ""
-      }],
-      "title": "How to create registration form",
-      "topic": "Topic:"
+      "photoUrl": "/images/people/sam_bellen.jpg",
+      "name": "Sam Bellen"
     },
-    "oleksiy_pletnov": {
-      "badges": [{
-        "description": "",
-        "link": "",
-        "name": ""
-      }],
-      "bio": "",
-      "company": "",
+    "sara_vieira": {
+      "shortBio": "",
+      "photoUrl": "/images/people/sara_vieira.jpg",
+      "name": "Sara Vieira",
       "companyLogo": "",
-      "companyLogoUrl": "",
+      "title": "I got 99 problems but GraphQL ain't one",
+      "photo": "/images/people/sara_vieira.jpg",
+      "order": 1,
+      "featured": true,
       "complexity": "Complexity: 🌶️🌶️",
-      "country": "Ukraine",
-      "featured": true,
-      "name": "Oleksiy Pletnov",
-      "photo": "/images/people/oleksiy_pletnov.jpg",
-      "photoUrl": "/images/people/oleksiy_pletnov.jpg",
-      "shortBio": "",
+      "company": "",
+      "companyLogoUrl": "",
       "socials": [{
         "icon": "",
         "link": "",
         "name": ""
       }, {
         "icon": "twitter",
-        "link": "https://twitter.com/epaminond",
+        "link": "https://twitter.com/NikkitaFTW",
         "name": "Twitter"
       }, {
+        "name": "",
         "icon": "",
+        "link": ""
+      }],
+      "country": "Portugal",
+      "bio": "",
+      "topic": "Topic:",
+      "badges": [{
+        "description": "",
         "link": "",
         "name": ""
-      }],
-      "title": "The Good Project",
-      "topic": "Topic:"
+      }]
     },
     "serhii_dubovyk": {
+      "topic": "Topic:",
       "badges": [{
+        "name": "",
         "description": "",
-        "link": "",
-        "name": ""
+        "link": ""
       }],
-      "bio": "",
-      "company": "",
-      "companyLogo": "",
-      "companyLogoUrl": "",
-      "complexity": "Complexity: 🌶️🌶️🌶️",
-      "country": "Ukraine",
-      "featured": true,
-      "name": "Serhii Dubovyk",
-      "photo": "/images/people/serhii_dubovyk.jpg",
+      "shortBio": "",
       "photoUrl": "/images/people/serhii_dubovyk.jpg",
-      "shortBio": "",
-      "socials": [{
-        "icon": "",
-        "link": "",
-        "name": ""
-      }, {
-        "icon": "",
-        "link": "",
-        "name": ""
-      }, {
-        "icon": "",
-        "link": "",
-        "name": ""
-      }],
-      "title": "Bring 'life' to WebAssembly with Genetic Algorithms and C++",
-      "topic": "Topic:"
-    },
-    "igor_fesenko": {
-      "badges": [{
-        "description": "",
-        "link": "",
-        "name": ""
-      }],
-      "bio": "",
-      "company": "",
+      "name": "Serhii Dubovyk",
       "companyLogo": "",
-      "complexity": "Complexity: 🌶️🌶️",
-      "companyLogoUrl": "",
-      "country": "Ukraine",
+      "title": "Bring 'life' to WebAssembly with Genetic Algorithms and C++",
+      "photo": "/images/people/serhii_dubovyk.jpg",
+      "order": 5,
       "featured": true,
-      "name": "Igor Fesenko",
-      "photo": "/images/people/igor_fesenko.jpg",
-      "photoUrl": "/images/people/igor_fesenko.jpg",
-      "shortBio": "",
+      "complexity": "Complexity: 🌶️🌶️🌶️",
+      "company": "",
+      "companyLogoUrl": "",
       "socials": [{
+        "name": "",
         "icon": "",
-        "link": "",
-        "name": ""
+        "link": ""
       }, {
-        "icon": "twitter",
-        "link": "https://twitter.com/Ky7m",
-        "name": "Twitter"
+        "name": "",
+        "icon": "",
+        "link": ""
       }, {
         "icon": "",
         "link": "",
         "name": ""
       }],
-      "title": "What I learned making an integration between global ecosystems",
-      "topic": "Topic:"
+      "country": "Ukraine",
+      "bio": ""
+    },
+    "vladimir_agafonkin": {
+      "photoUrl": "/images/people/vladimir_agafonkin.jpg",
+      "name": "Vladimir Agafonkin",
+      "companyLogo": "",
+      "title": "Fast by default: everyday algorithmic thinking for developers",
+      "photo": "/images/people/vladimir_agafonkin.jpg",
+      "order": 7,
+      "featured": true,
+      "complexity": "Complexity: 🌶️🌶️",
+      "company": "",
+      "companyLogoUrl": "",
+      "socials": [{
+        "name": "",
+        "link": "",
+        "icon": ""
+      }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/mourner",
+        "icon": "twitter"
+      }, {
+        "link": "",
+        "icon": "",
+        "name": ""
+      }],
+      "country": "Ukraine",
+      "bio": "",
+      "topic": "Topic:",
+      "badges": [{
+        "name": "",
+        "description": "",
+        "link": ""
+      }]
     }
   },
   "team": [{
