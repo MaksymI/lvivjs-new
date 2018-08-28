@@ -104,8 +104,17 @@
       "name": "Sombra",
       "url": "https://sombrainc.com/"
     }],
-    "title": "Gold Partners"
-  }],
+    "title": "Golden Partners"
+  },
+  {
+    "logos": [{
+      "logoUrl": "https://www.uklon.com.ua/content/images/site/v2/logo.png",
+      "name": "Uklon",
+      "url": "https://uklonua.app.link/jsconference"
+    }],
+    "title": "Transfer partner"
+  }
+],
   "schedule": {
     "2018-09-01": {
       "tracks": [{
@@ -275,10 +284,10 @@
     "110": {
       "tags": ["Web"],
       "speakers": ["ilia_idakiev"],
-      "title": "",
+      "title": "Building Reusable Custom Elements with Angular",
       "language": "English",
-      "description": "",
-      "complexity": "Intermediate 🌶️🌶️️"
+      "description": "Building Reusable Custom Elements with Angular",
+      "complexity": "Beginner 🌶️"
     },
     "111": {
       "tags": ["Android"],
@@ -608,10 +617,12 @@
       }],
       "name": "Ilia Idakiev",
       "country": "Sofia, Bulgaria",
-      "title": "",
+      "title": "Building Reusable Custom Elements with Angular",
+      "topic": "Topic:",
       "photo": "/images/people/ilia_idakiev.jpg",
       "order": 9,
-      "featured": true
+      "featured": true,
+      "complexity": "Complexity: 🌶️"
     },
     "mykhailo_ivankiv": {
       "order": 3,
